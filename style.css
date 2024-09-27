@@ -6,6 +6,7 @@
 body {
   font-family: 'Muli', sans-serif;
   color: rgb(51, 51, 51);
+  background-color: black;
 }
 button {
   font-family: 'Muli', sans-serif;
@@ -97,6 +98,7 @@ svg {
 .library-panel,
 .generate-panel,
 .save-panel {
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
