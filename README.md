@@ -21,7 +21,7 @@ An interactive web application for generating, customizing, and saving color pal
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/color-palette-generator.git](https://github.com/titansky01/Color-Pallet-Generator)
+   git clone https://github.com/titansky01/Color-Pallet-Generator
    ```
 2. Navigate to the project directory:
    ```
